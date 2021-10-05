@@ -1,0 +1,11 @@
+.nav-btn a {
+    text-decoration: none;
+    margin: 20px;
+    padding: 10px;
+    color: black;
+}
+
+.nav-btn a:hover {
+    color: #fff;
+    background-color: #276ddd;
+}

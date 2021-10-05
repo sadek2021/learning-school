@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Online Merketing",
+        "img": "https://edkentmedia.com/wp-content/uploads/2018/08/Why-Should-You-Market-Your-Business-Online.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Computer Programming",
+        "img": "https://blog.grinfer.com/wp-content/uploads/2020/02/How-to-Learn-Computer-Programming-Languages.png"
+    },
+    {
+        "id": 3,
+        "title": "Art and Design",
+        "img": "https://www.sacredheart.edu/media/shu-media/school-of-communication-media-amp-the-arts/art_design_740x317.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Academic Study",
+        "img": "https://images.infobloom.com/a-woman-with-books-and-paper.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Architecture",
+        "img": "https://www.arch2o.com/wp-content/uploads/2016/11/Arch2O-architectural-sketching-10-architecture-sketching-tips.jpg"
+    },
+    {
+        "id": 6,
+        "title": "IT and Software",
+        "img": "https://www.insightsoftechnology.com/wp-content/uploads/2019/09/Software.jpg"
+    }
+]

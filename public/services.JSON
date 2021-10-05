@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Md. Abdul Halim",
+        "description": "Search Engine Optimization",
+        "price": 2500,
+        "img": "https://mangools.com/blog/wp-content/uploads/2019/07/learn-seo-new-t.png"
+    },
+    {
+        "id": 2,
+        "name": "Nurun Nahar",
+        "description": "Digital Marketing",
+        "price": 2000,
+        "img": "https://www.digitalmarketingfarm.com/wp-content/uploads/2018/12/Best-Digital-Marketing-Service-1.png"
+    },
+    {
+        "id": 3,
+        "name": "Bhushan Kumar",
+        "description": "Graphic Design",
+        "price": 3000,
+        "img": "https://www.digitalagemarketinggroup.com/wp-content/uploads/2019/01/Graphic-_Design.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Anwarul Islam",
+        "description": "Responsive Web Design",
+        "price": 4000,
+        "img": "https://revenuesandprofits.com/wp-content/uploads/2020/09/pojmovi-u-web-dizajnu.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Alok Kumar",
+        "description": "Advanced Mathmatics",
+        "price": 2500,
+        "img": "https://cdn.cdnparenting.com/articles/2020/11/01194956/1588916176.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Shireen Yunus",
+        "description": "Learn English",
+        "price": 3000,
+        "img": "https://learningenglish365.com/new/wp-content/uploads/2020/09/learning-english-header.png"
+    },
+    {
+        "id": 7,
+        "name": "Sheikh Nasir Uddin",
+        "description": "Learn Accounting",
+        "price": 1700,
+        "img": "https://www.techfunnel.com/wp-content/uploads/2020/08/cloud-accounting.png"
+    },
+    {
+        "id": 8,
+        "name": "Shamima Nasrin",
+        "description": "Content Writting",
+        "price": 2200,
+        "img": "https://www.clearvoice.com/wp-content/uploads/2019/11/11.26.19_Hero_1360x646.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Sheuli Perveen",
+        "description": "Product Data Entry",
+        "price": 2000,
+        "img": "https://www.cogneesol.com/blog/wp-content/uploads/2017/01/Product-Data-Entry-Services.jpg"
+    }
+]
